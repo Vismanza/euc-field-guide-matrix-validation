@@ -1,0 +1,2466 @@
+[
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Armagh",
+            "SourceProductCode": "CC_STANDING_CHARGES_GREEN",
+            "SourceProductName": "Standing Charges"
+        },
+        "IsVersionEnabled": false,
+        "Name": "3a32d35faf402071ad3cb3c3ea4f558b",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 14.08,
+            "OneTimePrice": 16,
+            "RecurringCost": 7.2,
+            "RecurringPrice": 9,
+            "UsageCost": 5.6443,
+            "UsagePrice": 6.64035
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Armagh",
+            "SourceProductCode": "CC_STANDING_CHARGES_GREEN1",
+            "SourceProductName": "Standing Charges"
+        },
+        "IsVersionEnabled": false,
+        "Name": "9f393e5ea138b194db9a84d5e0cda933",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 13.3,
+            "OneTimePrice": 14,
+            "RecurringCost": 14.25,
+            "RecurringPrice": 15,
+            "UsageCost": 5.26562,
+            "UsagePrice": 5.85069
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Armagh",
+            "SourceProductCode": "CC_STANDING_CHARGES_PREPAID",
+            "SourceProductName": "Standing Charges"
+        },
+        "IsVersionEnabled": false,
+        "Name": "959ff31aba5c9b33f797e70033ffd4b5",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 23.28,
+            "OneTimePrice": 24,
+            "RecurringCost": 13.16,
+            "RecurringPrice": 14,
+            "UsageCost": 9.07294,
+            "UsagePrice": 9.55046
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Armagh",
+            "SourceProductCode": "CC_STANDING_CHARGES_SMARTELEC",
+            "SourceProductName": "Standing Charges"
+        },
+        "IsVersionEnabled": false,
+        "Name": "66724b1326775cb69a8a8d24365ae4e3",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 15.96,
+            "OneTimePrice": 19,
+            "RecurringCost": 13.05,
+            "RecurringPrice": 15,
+            "UsageCost": 8.04328,
+            "UsagePrice": 8.46661
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Armagh",
+            "SourceProductCode": "CC_UNIT_RATE_DAY/NIGHT_DAY",
+            "SourceProductName": "Unit Rate - Day"
+        },
+        "IsVersionEnabled": false,
+        "Name": "d046924ab764e36d3c8f9bf67eaa23db",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 29.1,
+            "OneTimePrice": 30,
+            "RecurringCost": 9.7,
+            "RecurringPrice": 10,
+            "UsageCost": 4.64045,
+            "UsagePrice": 5.72895
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Armagh",
+            "SourceProductCode": "CC_UNIT_RATE_DAY/NIGHT_NIGHT",
+            "SourceProductName": "Unit Rate - Night"
+        },
+        "IsVersionEnabled": false,
+        "Name": "dab4d4d702562fec9619124998ab9c7d",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 15.39,
+            "OneTimePrice": 19,
+            "RecurringCost": 4.2,
+            "RecurringPrice": 5,
+            "UsageCost": 4.6482,
+            "UsagePrice": 5.66854
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Armagh",
+            "SourceProductCode": "CC_UNIT_RATE_ELEC_DUAL",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "c92a105097ca9209b4e787031227bb03",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 23.76,
+            "OneTimePrice": 27,
+            "RecurringCost": 18,
+            "RecurringPrice": 18,
+            "UsageCost": 7.504,
+            "UsagePrice": 7.73608
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Armagh",
+            "SourceProductCode": "CC_UNIT_RATE_ELEC_DUAL2",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "86d0ab95589f2ff78b6360cf2367c414",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 25.76,
+            "OneTimePrice": 28,
+            "RecurringCost": 15.3,
+            "RecurringPrice": 17,
+            "UsageCost": 4.79126,
+            "UsagePrice": 5.20789
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Armagh",
+            "SourceProductCode": "CC_UNIT_RATE_GASSTD",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "e40935f7d61fdc2d98c0946aee027e8f",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 9.9,
+            "OneTimePrice": 11,
+            "RecurringCost": 11.16,
+            "RecurringPrice": 12,
+            "UsageCost": 1.46168,
+            "UsagePrice": 1.60624
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Armagh",
+            "SourceProductCode": "CC_UNIT_RATE_GAS_DUAL",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "9f5c653f2a298a391ad5442e810ebbf8",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 21.12,
+            "OneTimePrice": 24,
+            "RecurringCost": 10.67,
+            "RecurringPrice": 11,
+            "UsageCost": 6.83136,
+            "UsagePrice": 7.34555
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Armagh",
+            "SourceProductCode": "CC_UNIT_RATE_GAS_DUAL2",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "17df6aa614cfe3587d0128094b8bdc73",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 25.38,
+            "OneTimePrice": 27,
+            "RecurringCost": 8.19,
+            "RecurringPrice": 9,
+            "UsageCost": 7.3307,
+            "UsagePrice": 8.14522
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Armagh",
+            "SourceProductCode": "CC_UNIT_RATE_GREEN",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "aff717c96acb79241c3e5f5194c1aed1",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 22.54,
+            "OneTimePrice": 23,
+            "RecurringCost": 14.85,
+            "RecurringPrice": 15,
+            "UsageCost": 6.17372,
+            "UsagePrice": 7.01559
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Armagh",
+            "SourceProductCode": "CC_UNIT_RATE_GREEN1",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "5f2f9d0a2e5baa2f2db17a2c42a807eb",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 11.28,
+            "OneTimePrice": 12,
+            "RecurringCost": 15.66,
+            "RecurringPrice": 18,
+            "UsageCost": 1.65947,
+            "UsagePrice": 1.72861
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Armagh",
+            "SourceProductCode": "CC_UNIT_RATE_PREPAID",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "059d8f90eba19a659a2206e1776e1782",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 15.13,
+            "OneTimePrice": 17,
+            "RecurringCost": 5,
+            "RecurringPrice": 5,
+            "UsageCost": 2.46857,
+            "UsagePrice": 2.57143
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Armagh",
+            "SourceProductCode": "CC_UNIT_RATE_SMARTELEC",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "f6aa1b780f539893050d64bea0511bf7",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 22.54,
+            "OneTimePrice": 23,
+            "RecurringCost": 11.04,
+            "RecurringPrice": 12,
+            "UsageCost": 4.55931,
+            "UsagePrice": 5.49315
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Armagh",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "d1ef73eb36be19ab39b546163ddbff11",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 26.88,
+            "OneTimePrice": 28,
+            "RecurringCost": 7.6,
+            "RecurringPrice": 8,
+            "UsageCost": 6.64128,
+            "UsagePrice": 7.63366
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Chichester",
+            "SourceProductCode": "CC_STANDING_CHARGES_GREEN",
+            "SourceProductName": "Standing Charges"
+        },
+        "IsVersionEnabled": false,
+        "Name": "f248af280d9227504d037d5d4f468f44",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 13.6,
+            "OneTimePrice": 17,
+            "RecurringCost": 7.2,
+            "RecurringPrice": 8,
+            "UsageCost": 2.13791,
+            "UsagePrice": 2.20403
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Chichester",
+            "SourceProductCode": "CC_STANDING_CHARGES_GREEN1",
+            "SourceProductName": "Standing Charges"
+        },
+        "IsVersionEnabled": false,
+        "Name": "3500c02fcad9861fcd296f0c6d9a4c28",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 20.88,
+            "OneTimePrice": 24,
+            "RecurringCost": 12.22,
+            "RecurringPrice": 13,
+            "UsageCost": 4.706,
+            "UsagePrice": 5.47209
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Chichester",
+            "SourceProductCode": "CC_STANDING_CHARGES_PREPAID",
+            "SourceProductName": "Standing Charges"
+        },
+        "IsVersionEnabled": false,
+        "Name": "022f98a05211bd106486df62a50a75ba",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 14.56,
+            "OneTimePrice": 16,
+            "RecurringCost": 8.91,
+            "RecurringPrice": 9,
+            "UsageCost": 1.25944,
+            "UsagePrice": 1.33983
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Chichester",
+            "SourceProductCode": "CC_STANDING_CHARGES_SMARTELEC",
+            "SourceProductName": "Standing Charges"
+        },
+        "IsVersionEnabled": false,
+        "Name": "dc4fa02671bd9cd7bf50aa6edce75f6e",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 16.83,
+            "OneTimePrice": 17,
+            "RecurringCost": 14.88,
+            "RecurringPrice": 16,
+            "UsageCost": 2.23329,
+            "UsagePrice": 2.65868
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Chichester",
+            "SourceProductCode": "CC_UNIT_RATE_DAY/NIGHT_DAY",
+            "SourceProductName": "Unit Rate - Day"
+        },
+        "IsVersionEnabled": false,
+        "Name": "cac22a8c855bead49a3983b50196fafd",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 18.9,
+            "OneTimePrice": 21,
+            "RecurringCost": 15.2,
+            "RecurringPrice": 19,
+            "UsageCost": 4.11047,
+            "UsagePrice": 4.32681
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Chichester",
+            "SourceProductCode": "CC_UNIT_RATE_DAY/NIGHT_NIGHT",
+            "SourceProductName": "Unit Rate - Night"
+        },
+        "IsVersionEnabled": false,
+        "Name": "af6bdeeda30ecccbdf396e3861773990",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 9.7,
+            "OneTimePrice": 10,
+            "RecurringCost": 17.46,
+            "RecurringPrice": 18,
+            "UsageCost": 8.50394,
+            "UsagePrice": 8.76695
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Chichester",
+            "SourceProductCode": "CC_UNIT_RATE_ELEC_DUAL",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "9a82d757cf786967eb0249eb1798b4db",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 23.04,
+            "OneTimePrice": 24,
+            "RecurringCost": 18.62,
+            "RecurringPrice": 19,
+            "UsageCost": 5.48994,
+            "UsagePrice": 5.77888
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Chichester",
+            "SourceProductCode": "CC_UNIT_RATE_ELEC_DUAL2",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "df8d38a392003ea53d6920e98186370f",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 12.6,
+            "OneTimePrice": 14,
+            "RecurringCost": 14.28,
+            "RecurringPrice": 17,
+            "UsageCost": 1.5322,
+            "UsagePrice": 1.70244
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Chichester",
+            "SourceProductCode": "CC_UNIT_RATE_GASSTD",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "df9a6136e7c4abfdd8f3b12bc00b0e7c",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 25.92,
+            "OneTimePrice": 27,
+            "RecurringCost": 17.28,
+            "RecurringPrice": 18,
+            "UsageCost": 8.65217,
+            "UsagePrice": 9.10755
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Chichester",
+            "SourceProductCode": "CC_UNIT_RATE_GAS_DUAL",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "c4a844dc33cca45e3cd1c114ce03d9d3",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 24.9,
+            "OneTimePrice": 30,
+            "RecurringCost": 7.04,
+            "RecurringPrice": 8,
+            "UsageCost": 4.53351,
+            "UsagePrice": 4.67372
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Chichester",
+            "SourceProductCode": "CC_UNIT_RATE_GAS_DUAL2",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "b1a8555da067146d9101c0c1496b69b7",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 14.76,
+            "OneTimePrice": 18,
+            "RecurringCost": 10.23,
+            "RecurringPrice": 11,
+            "UsageCost": 3.4977,
+            "UsagePrice": 3.60588
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Chichester",
+            "SourceProductCode": "CC_UNIT_RATE_GREEN",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "23f1dbb4321ffa404da2dbf4f455decb",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 10.78,
+            "OneTimePrice": 11,
+            "RecurringCost": 15.2,
+            "RecurringPrice": 16,
+            "UsageCost": 7.84086,
+            "UsagePrice": 8.34134
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Chichester",
+            "SourceProductCode": "CC_UNIT_RATE_GREEN1",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "f8e356a5a0631aa805368377b3d6527c",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 12.04,
+            "OneTimePrice": 14,
+            "RecurringCost": 16.92,
+            "RecurringPrice": 18,
+            "UsageCost": 3.50281,
+            "UsagePrice": 4.17001
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Chichester",
+            "SourceProductCode": "CC_UNIT_RATE_PREPAID",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "a6cccde26f02b33409179b2cb27a89de",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 25.11,
+            "OneTimePrice": 27,
+            "RecurringCost": 4.75,
+            "RecurringPrice": 5,
+            "UsageCost": 9.90138,
+            "UsagePrice": 9.90138
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Chichester",
+            "SourceProductCode": "CC_UNIT_RATE_SMARTELEC",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "44795325f2e8c10609d07acfb70bad49",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 13.3,
+            "OneTimePrice": 14,
+            "RecurringCost": 11.57,
+            "RecurringPrice": 13,
+            "UsageCost": 5.64207,
+            "UsagePrice": 6.79767
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Chichester",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "353d54e743b54812b749746ace22db01",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 10.8,
+            "OneTimePrice": 12,
+            "RecurringCost": 4,
+            "RecurringPrice": 5,
+            "UsageCost": 6.38708,
+            "UsagePrice": 7.09676
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Derby",
+            "SourceProductCode": "CC_STANDING_CHARGES_GREEN",
+            "SourceProductName": "Standing Charges"
+        },
+        "IsVersionEnabled": false,
+        "Name": "de6724c0eda6904a58298ed5004a4518",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 16.38,
+            "OneTimePrice": 18,
+            "RecurringCost": 16.49,
+            "RecurringPrice": 17,
+            "UsageCost": 2.5571,
+            "UsagePrice": 2.60929
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Derby",
+            "SourceProductCode": "CC_STANDING_CHARGES_GREEN1",
+            "SourceProductName": "Standing Charges"
+        },
+        "IsVersionEnabled": false,
+        "Name": "163ed59b257a2702e393f0e937acc600",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 25.5,
+            "OneTimePrice": 30,
+            "RecurringCost": 15.48,
+            "RecurringPrice": 18,
+            "UsageCost": 1.13227,
+            "UsagePrice": 1.15538
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Derby",
+            "SourceProductCode": "CC_STANDING_CHARGES_PREPAID",
+            "SourceProductName": "Standing Charges"
+        },
+        "IsVersionEnabled": false,
+        "Name": "62c10194c54f020ec190e276b2161a43",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 15.81,
+            "OneTimePrice": 17,
+            "RecurringCost": 19,
+            "RecurringPrice": 20,
+            "UsageCost": 6.7327,
+            "UsagePrice": 7.73874
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Derby",
+            "SourceProductCode": "CC_STANDING_CHARGES_SMARTELEC",
+            "SourceProductName": "Standing Charges"
+        },
+        "IsVersionEnabled": false,
+        "Name": "33e51958db6477ef405e12a8f89bdd13",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 10.2,
+            "OneTimePrice": 12,
+            "RecurringCost": 10.34,
+            "RecurringPrice": 11,
+            "UsageCost": 9.69596,
+            "UsagePrice": 9.99583
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Derby",
+            "SourceProductCode": "CC_UNIT_RATE_DAY/NIGHT_DAY",
+            "SourceProductName": "Unit Rate - Day"
+        },
+        "IsVersionEnabled": false,
+        "Name": "e601a4a0ecd686e05587be9e87a24910",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 16.2,
+            "OneTimePrice": 18,
+            "RecurringCost": 12.35,
+            "RecurringPrice": 13,
+            "UsageCost": 3.27457,
+            "UsagePrice": 3.94527
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Derby",
+            "SourceProductCode": "CC_UNIT_RATE_DAY/NIGHT_NIGHT",
+            "SourceProductName": "Unit Rate - Night"
+        },
+        "IsVersionEnabled": false,
+        "Name": "2ac0b768816da718d753eaea679b82d6",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 24.92,
+            "OneTimePrice": 28,
+            "RecurringCost": 11.76,
+            "RecurringPrice": 12,
+            "UsageCost": 1.46263,
+            "UsagePrice": 1.62514
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Derby",
+            "SourceProductCode": "CC_UNIT_RATE_ELEC_DUAL",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "608222564487850d6779316446cee637",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 11.76,
+            "OneTimePrice": 12,
+            "RecurringCost": 10.66,
+            "RecurringPrice": 13,
+            "UsageCost": 5.87786,
+            "UsagePrice": 6.67939
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Derby",
+            "SourceProductCode": "CC_UNIT_RATE_ELEC_DUAL2",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "79e091b35eae53e7984d958a9dc97f18",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 12.18,
+            "OneTimePrice": 14,
+            "RecurringCost": 13.12,
+            "RecurringPrice": 16,
+            "UsageCost": 3.20104,
+            "UsagePrice": 3.63755
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Derby",
+            "SourceProductCode": "CC_UNIT_RATE_GASSTD",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "96649fcf4d65aa401d4dc738dc59021f",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 15.3,
+            "OneTimePrice": 17,
+            "RecurringCost": 12.09,
+            "RecurringPrice": 13,
+            "UsageCost": 8.29653,
+            "UsagePrice": 9.87682
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Derby",
+            "SourceProductCode": "CC_UNIT_RATE_GAS_DUAL",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "411b9e5510d8b146abd9a35754980ac3",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 9.7,
+            "OneTimePrice": 10,
+            "RecurringCost": 9.7,
+            "RecurringPrice": 10,
+            "UsageCost": 8.60304,
+            "UsagePrice": 8.86911
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Derby",
+            "SourceProductCode": "CC_UNIT_RATE_GAS_DUAL2",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "f1b27fae8bdb9b27a81ff351e1e0fba9",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 15.48,
+            "OneTimePrice": 18,
+            "RecurringCost": 10.8,
+            "RecurringPrice": 12,
+            "UsageCost": 1.7656,
+            "UsagePrice": 2.1019
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Derby",
+            "SourceProductCode": "CC_UNIT_RATE_GREEN",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "be0274201d571f426c04ac192f9179b4",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 16,
+            "OneTimePrice": 16,
+            "RecurringCost": 7.65,
+            "RecurringPrice": 9,
+            "UsageCost": 6.40269,
+            "UsagePrice": 6.60071
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Derby",
+            "SourceProductCode": "CC_UNIT_RATE_GREEN1",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "4acb2e177a49fab685d108ac33ae3d2d",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 10.92,
+            "OneTimePrice": 12,
+            "RecurringCost": 17.28,
+            "RecurringPrice": 18,
+            "UsageCost": 5.30018,
+            "UsagePrice": 5.76107
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Derby",
+            "SourceProductCode": "CC_UNIT_RATE_PREPAID",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "82e36ff784b692e0fd10136ccc231f76",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 15.52,
+            "OneTimePrice": 16,
+            "RecurringCost": 12.22,
+            "RecurringPrice": 13,
+            "UsageCost": 6.42976,
+            "UsagePrice": 7.7467
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Derby",
+            "SourceProductCode": "CC_UNIT_RATE_SMARTELEC",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "43fd6e19f7674e9345bb249bcb38627d",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 13.76,
+            "OneTimePrice": 16,
+            "RecurringCost": 5.46,
+            "RecurringPrice": 6,
+            "UsageCost": 2.69692,
+            "UsagePrice": 3.32953
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Derby",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "91d1f29472c5705913f33282f2277a8b",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 17.67,
+            "OneTimePrice": 19,
+            "RecurringCost": 14,
+            "RecurringPrice": 14,
+            "UsageCost": 8.06087,
+            "UsagePrice": 8.57539
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Salisbury",
+            "SourceProductCode": "CC_STANDING_CHARGES_GREEN",
+            "SourceProductName": "Standing Charges"
+        },
+        "IsVersionEnabled": false,
+        "Name": "44e378cdfc0e536495195717c67b787b",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 19.6,
+            "OneTimePrice": 20,
+            "RecurringCost": 13.44,
+            "RecurringPrice": 14,
+            "UsageCost": 7.66857,
+            "UsagePrice": 8.07218
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Salisbury",
+            "SourceProductCode": "CC_STANDING_CHARGES_GREEN1",
+            "SourceProductName": "Standing Charges"
+        },
+        "IsVersionEnabled": false,
+        "Name": "99cbaec571fd08bd07d5ed615ebb10d9",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 16,
+            "OneTimePrice": 16,
+            "RecurringCost": 12.87,
+            "RecurringPrice": 13,
+            "UsageCost": 1.51004,
+            "UsagePrice": 1.60643
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Salisbury",
+            "SourceProductCode": "CC_STANDING_CHARGES_PREPAID",
+            "SourceProductName": "Standing Charges"
+        },
+        "IsVersionEnabled": false,
+        "Name": "f16191e146ba39aa6a0c80053405acc5",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 25.22,
+            "OneTimePrice": 26,
+            "RecurringCost": 5.64,
+            "RecurringPrice": 6,
+            "UsageCost": 1.18042,
+            "UsagePrice": 1.29717
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Salisbury",
+            "SourceProductCode": "CC_STANDING_CHARGES_SMARTELEC",
+            "SourceProductName": "Standing Charges"
+        },
+        "IsVersionEnabled": false,
+        "Name": "337c60eafad49a7869f2d08a37b04b58",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 13.35,
+            "OneTimePrice": 15,
+            "RecurringCost": 11.76,
+            "RecurringPrice": 14,
+            "UsageCost": 8.68604,
+            "UsagePrice": 9.65116
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Salisbury",
+            "SourceProductCode": "CC_UNIT_RATE_DAY/NIGHT_DAY",
+            "SourceProductName": "Unit Rate - Day"
+        },
+        "IsVersionEnabled": false,
+        "Name": "ad2e5c015c1ac04eadd027ec981749b3",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 19.09,
+            "OneTimePrice": 23,
+            "RecurringCost": 10.67,
+            "RecurringPrice": 11,
+            "UsageCost": 8.18596,
+            "UsagePrice": 8.89778
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Salisbury",
+            "SourceProductCode": "CC_UNIT_RATE_DAY/NIGHT_NIGHT",
+            "SourceProductName": "Unit Rate - Night"
+        },
+        "IsVersionEnabled": false,
+        "Name": "b69b520a75decc8855db153e5bf44cc2",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 14.28,
+            "OneTimePrice": 17,
+            "RecurringCost": 7.29,
+            "RecurringPrice": 9,
+            "UsageCost": 1.69398,
+            "UsagePrice": 1.9471
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Salisbury",
+            "SourceProductCode": "CC_UNIT_RATE_ELEC_DUAL",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "ceda66578e27190a5d2b1dd33e675569",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 8.91,
+            "OneTimePrice": 11,
+            "RecurringCost": 5.67,
+            "RecurringPrice": 7,
+            "UsageCost": 1.48418,
+            "UsagePrice": 1.85523
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Salisbury",
+            "SourceProductCode": "CC_UNIT_RATE_ELEC_DUAL2",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "d3e3a2c6fa690cdbd0fddaf4cb0cc835",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 15,
+            "OneTimePrice": 15,
+            "RecurringCost": 9.96,
+            "RecurringPrice": 12,
+            "UsageCost": 5.68477,
+            "UsagePrice": 5.98397
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Salisbury",
+            "SourceProductCode": "CC_UNIT_RATE_GASSTD",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "1b823185b210e82270ccdd97a6ce2bc2",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 26.6,
+            "OneTimePrice": 28,
+            "RecurringCost": 9.13,
+            "RecurringPrice": 11,
+            "UsageCost": 6.12485,
+            "UsagePrice": 6.58586
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Salisbury",
+            "SourceProductCode": "CC_UNIT_RATE_GAS_DUAL",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "6e668e732f6d46d4cfc8b33d2dfe75a4",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 20.16,
+            "OneTimePrice": 21,
+            "RecurringCost": 10.08,
+            "RecurringPrice": 12,
+            "UsageCost": 2.80146,
+            "UsagePrice": 2.94891
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Salisbury",
+            "SourceProductCode": "CC_UNIT_RATE_GAS_DUAL2",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "bbcfe1ee6deeb7abbed31a0d1b9c24a0",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 10.56,
+            "OneTimePrice": 12,
+            "RecurringCost": 13.02,
+            "RecurringPrice": 14,
+            "UsageCost": 6.64342,
+            "UsagePrice": 8.30427
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Salisbury",
+            "SourceProductCode": "CC_UNIT_RATE_GREEN",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "a6c43303de4d00bcba1d918c6eb3c61a",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 21.12,
+            "OneTimePrice": 24,
+            "RecurringCost": 8.91,
+            "RecurringPrice": 11,
+            "UsageCost": 2.95463,
+            "UsagePrice": 3.24685
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Salisbury",
+            "SourceProductCode": "CC_UNIT_RATE_GREEN1",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "dc1ea525b5d907f7eec6e65ee8c2be18",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 12.3,
+            "OneTimePrice": 15,
+            "RecurringCost": 15.2,
+            "RecurringPrice": 19,
+            "UsageCost": 6.52416,
+            "UsagePrice": 7.49903
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Salisbury",
+            "SourceProductCode": "CC_UNIT_RATE_PREPAID",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "8d45857b82f3de48daae88580e72f2a5",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 12.74,
+            "OneTimePrice": 14,
+            "RecurringCost": 11.7,
+            "RecurringPrice": 13,
+            "UsageCost": 6.55801,
+            "UsagePrice": 7.71531
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Salisbury",
+            "SourceProductCode": "CC_UNIT_RATE_SMARTELEC",
+            "SourceProductName": "Unit Rate"
+        },
+        "IsVersionEnabled": false,
+        "Name": "fc8ab9d0da8c22ed76d453bc0deee47a",
+        "OutputData": {
+            "ChargeMeasurement": "kWh",
+            "OneTimeCost": 14.4,
+            "OneTimePrice": 18,
+            "RecurringCost": 7.2,
+            "RecurringPrice": 8,
+            "UsageCost": 8.18519,
+            "UsagePrice": 8.43834
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region",
+            "CharacteristicValue": "Salisbury",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "9ff5fd93cfc21a277be3f8e950b4e1b4",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 18.27,
+            "OneTimePrice": 21,
+            "RecurringCost": 4.4,
+            "RecurringPrice": 5,
+            "UsageCost": 2.64987,
+            "UsagePrice": 2.91194
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Armagh;Agent;Acquisition",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "4a0a334406148b30f2606bd7f62a70d1",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 20.68,
+            "OneTimePrice": 22,
+            "RecurringCost": 10.4,
+            "RecurringPrice": 13,
+            "UsageCost": 0.85899,
+            "UsagePrice": 1.01058
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Armagh;Agent;Renewal",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "397559dd307c7e453dc92d9694956c9f",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 19,
+            "OneTimePrice": 20,
+            "RecurringCost": 10.45,
+            "RecurringPrice": 11,
+            "UsageCost": 8.66657,
+            "UsagePrice": 8.75411
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Armagh;Broker;Acquisition",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "780a7564c6e7f520191917717289468c",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 14.08,
+            "OneTimePrice": 16,
+            "RecurringCost": 6.4,
+            "RecurringPrice": 8,
+            "UsageCost": 3.19843,
+            "UsagePrice": 3.90052
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Armagh;Broker;Renewal",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "af29a38135d1e72036e7700065f1d02b",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 10.53,
+            "OneTimePrice": 13,
+            "RecurringCost": 4.4,
+            "RecurringPrice": 5,
+            "UsageCost": 6.5632,
+            "UsagePrice": 7.81333
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Armagh;Direct;Acquisition",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "e1f95b419ce0b98c82cadc82c3d9bd8c",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 15.3,
+            "OneTimePrice": 18,
+            "RecurringCost": 10.32,
+            "RecurringPrice": 12,
+            "UsageCost": 3.66902,
+            "UsagePrice": 4.42051
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Armagh;Direct;Renewal",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "eb2f4918576695920acda1a7bb344d8a",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 17.64,
+            "OneTimePrice": 21,
+            "RecurringCost": 11.48,
+            "RecurringPrice": 14,
+            "UsageCost": 5.15579,
+            "UsagePrice": 5.9262
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Chichester;Agent;Acquisition",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "5fdad56b727de5a7a3422503b51f2648",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 23.49,
+            "OneTimePrice": 29,
+            "RecurringCost": 9.57,
+            "RecurringPrice": 11,
+            "UsageCost": 6.2643,
+            "UsagePrice": 6.52531
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Chichester;Agent;Renewal",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "e7255e9437c96349299afe9b91f9bce6",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 23.66,
+            "OneTimePrice": 26,
+            "RecurringCost": 8.46,
+            "RecurringPrice": 9,
+            "UsageCost": 3.07271,
+            "UsagePrice": 3.65799
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Chichester;Broker;Acquisition",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "005d50d3a434d4688307f1b5a3059c33",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 9.24,
+            "OneTimePrice": 11,
+            "RecurringCost": 11.64,
+            "RecurringPrice": 12,
+            "UsageCost": 4.81499,
+            "UsagePrice": 5.6647
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Chichester;Broker;Renewal",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "2c159a7d16f2820bc647cdc99085b8db",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 18.8,
+            "OneTimePrice": 20,
+            "RecurringCost": 16.8,
+            "RecurringPrice": 20,
+            "UsageCost": 3.40361,
+            "UsagePrice": 3.50888
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Chichester;Direct;Acquisition",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "e1fb2bc3b36d532056d8783adfe0208c",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 11.44,
+            "OneTimePrice": 13,
+            "RecurringCost": 12.88,
+            "RecurringPrice": 14,
+            "UsageCost": 8.42574,
+            "UsagePrice": 9.15841
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Chichester;Direct;Renewal",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "c5f82d7e92406fba3f5709ccebb5f4f1",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 19.78,
+            "OneTimePrice": 23,
+            "RecurringCost": 16.91,
+            "RecurringPrice": 19,
+            "UsageCost": 7.25457,
+            "UsagePrice": 7.55684
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Derby;Agent;Acquisition",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "7bb8069cb6de0bddd26734fccb39a76c",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 10.23,
+            "OneTimePrice": 11,
+            "RecurringCost": 7.38,
+            "RecurringPrice": 9,
+            "UsageCost": 0.88625,
+            "UsagePrice": 1.09414
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Derby;Agent;Renewal",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "56712c28900e20e9274157631ef6ac3c",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 19,
+            "OneTimePrice": 19,
+            "RecurringCost": 17.2,
+            "RecurringPrice": 20,
+            "UsageCost": 4.08703,
+            "UsagePrice": 4.3479
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Derby;Broker;Acquisition",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "e1d5b7d5dc3f8e6ea7c4a718471e6dd1",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 12.75,
+            "OneTimePrice": 15,
+            "RecurringCost": 12.6,
+            "RecurringPrice": 14,
+            "UsageCost": 1.76887,
+            "UsagePrice": 2.08102
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Derby;Broker;Renewal",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "65019f230b5a21ce12a65751dd5cc4e1",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 17.6,
+            "OneTimePrice": 20,
+            "RecurringCost": 11.05,
+            "RecurringPrice": 13,
+            "UsageCost": 7.67124,
+            "UsagePrice": 7.90849
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Derby;Direct;Acquisition",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "ba80dd52281df843ac166392bf047cc5",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 13.44,
+            "OneTimePrice": 16,
+            "RecurringCost": 16.66,
+            "RecurringPrice": 17,
+            "UsageCost": 7.53919,
+            "UsagePrice": 8.56726
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Derby;Direct;Renewal",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "3286b33fa9c025317fe32c781edcad5c",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 29.4,
+            "OneTimePrice": 30,
+            "RecurringCost": 16.56,
+            "RecurringPrice": 18,
+            "UsageCost": 1.8888,
+            "UsagePrice": 2.30342
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Salisbury;Agent;Acquisition",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "4fdbfcda6ad045d3aa0da1ee2db19ae7",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 8.1,
+            "OneTimePrice": 10,
+            "RecurringCost": 6.16,
+            "RecurringPrice": 7,
+            "UsageCost": 2.3241,
+            "UsagePrice": 2.3241
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Salisbury;Agent;Renewal",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "fd3b3056e4f7d59c33ba2311f0c198bf",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 16.49,
+            "OneTimePrice": 17,
+            "RecurringCost": 5.88,
+            "RecurringPrice": 6,
+            "UsageCost": 4.41927,
+            "UsagePrice": 5.26103
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Salisbury;Broker;Acquisition",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "a4a7bcc114363c9e26fdedfe95ebd6d5",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 24.3,
+            "OneTimePrice": 30,
+            "RecurringCost": 16.02,
+            "RecurringPrice": 18,
+            "UsageCost": 5.24643,
+            "UsagePrice": 5.40869
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Salisbury;Broker;Renewal",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "58235484318678ddb09ed90a3a9ea786",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 9.68,
+            "OneTimePrice": 11,
+            "RecurringCost": 5,
+            "RecurringPrice": 5,
+            "UsageCost": 6.7009,
+            "UsagePrice": 8.37613
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Salisbury;Direct;Acquisition",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "42ac9bbf7527ca9d184e0a44fc320776",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 24.92,
+            "OneTimePrice": 28,
+            "RecurringCost": 10.8,
+            "RecurringPrice": 12,
+            "UsageCost": 9.12699,
+            "UsagePrice": 9.50728
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    },
+    {
+        "CalculationMatrixVersionId": {
+            "CalculationMatrix.Name": "ValidationDemo",
+            "VersionNumber": 1,
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo",
+            "VlocityRecordSObjectType": "CalculationMatrixVersion"
+        },
+        "InputData": {
+            "CharacteristicName": "Distribution Region;Sales Channel;Sales Type",
+            "CharacteristicValue": "Salisbury;Direct;Renewal",
+            "SourceProductCode": "TEST_ATT_PRODUCT",
+            "SourceProductName": "Test Product Attribute"
+        },
+        "IsVersionEnabled": false,
+        "Name": "475b0b879a10bf8ce8ca957598891110",
+        "OutputData": {
+            "ChargeMeasurement": "Day",
+            "OneTimeCost": 10,
+            "OneTimePrice": 10,
+            "RecurringCost": 16.6,
+            "RecurringPrice": 20,
+            "UsageCost": 2.22135,
+            "UsagePrice": 2.33826
+        },
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "CalculationMatrixRow"
+    }
+]

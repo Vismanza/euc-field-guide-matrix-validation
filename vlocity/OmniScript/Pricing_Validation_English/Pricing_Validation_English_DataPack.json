@@ -1,0 +1,25 @@
+{
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": false,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": true,
+    "Language": "English",
+    "Name": "Matrix Validation",
+    "OmniProcessElement": [
+        "Pricing_Validation_English_Element_Validation.json",
+        "Pricing_Validation_English_Element_Validate.json",
+        "Pricing_Validation_English_Element_Results.json",
+        "Pricing_Validation_English_Element_CustomLWC1.json",
+        "Pricing_Validation_English_Element_TextBlock1.json"
+    ],
+    "OmniProcessType": "OmniScript",
+    "PropertySetConfig": "Pricing_Validation_English_PropertySetConfig.json",
+    "SubType": "Validation",
+    "Type": "Pricing",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/Pricing/Validation/English",
+    "WebComponentKey": "28ec99de-b80e-0c7e-23f1-06fea283e8ec"
+}

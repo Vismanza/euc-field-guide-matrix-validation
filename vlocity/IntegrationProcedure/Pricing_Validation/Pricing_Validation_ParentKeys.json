@@ -1,0 +1,6 @@
+[
+    "DataRaptor/filterMatrixData",
+    "DataRaptor/getMatrixRowData",
+    "DataRaptor/getProductData",
+    "DataRaptor/prepareMatrixData"
+]

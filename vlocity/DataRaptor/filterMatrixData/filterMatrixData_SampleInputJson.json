@@ -1,0 +1,346 @@
+{
+    "Data": [
+        {
+            "ProductCode": "CC_UNIT_RATE_DAY/NIGHT_NIGHT",
+            "ProductName": "Unit Rate - Night"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_DAY/NIGHT_NIGHT",
+            "ProductName": "Unit Rate - Night"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_DAY/NIGHT_NIGHT",
+            "ProductName": "Unit Rate - Night"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GREEN",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GREEN",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GAS_DUAL2",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GAS_DUAL",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GAS_DUAL",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GASSTD",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GAS_DUAL2",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_PREPAID",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_PREPAID",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_PREPAID",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_PREPAID",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GASSTD",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GAS_DUAL2",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GAS_DUAL2",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GAS_DUAL",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GASSTD",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_ELEC_DUAL2",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_ELEC_DUAL",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_ELEC_DUAL",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_DAY/NIGHT",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_DAY/NIGHT",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_DAY/NIGHT",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_DAY/NIGHT",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_ELEC_DUAL2",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_ELEC_DUAL2",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_ELEC_DUAL2",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_ELEC_DUAL",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_ELEC_DUAL",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_PREPAID",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GREEN1",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_PREPAID",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GREEN1",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GREEN",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GREEN",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_ELEC_DUAL",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_ELEC_DUAL",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_SMARTELEC",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_SMARTELEC",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GASSTD",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GASSTD",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GAS_DUAL",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GAS_DUAL2",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GAS_DUAL2",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GAS_DUAL",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GAS_DUAL",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GASSTD",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GREEN1",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GREEN1",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GASSTD",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GREEN1",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GREEN1",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GREEN1",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GREEN",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GREEN",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GREEN1",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GREEN",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GASSTD",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_SMARTELEC",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_SMARTELEC",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_PREPAID",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_PREPAID",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_STANDING_CHARGES_GREEN",
+            "ProductName": "Standing Charges"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_ELEC_DUAL2",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_SMARTELEC",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_DAY/NIGHT_DAY",
+            "ProductName": "Unit Rate - Day"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_SMARTELEC",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_SMARTELEC",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_ELEC_DUAL",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_ELEC_DUAL",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GAS_DUAL2",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GAS_DUAL2",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GAS_DUAL",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_GAS_DUAL",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_ELEC_DUAL2",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_ELEC_DUAL2",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_ELEC_DUAL2",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_DAY/NIGHT_DAY",
+            "ProductName": "Unit Rate - Day"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_DAY/NIGHT_DAY",
+            "ProductName": "Unit Rate - Day"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_DAY/NIGHT_DAY",
+            "ProductName": "Unit Rate - Day"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_SMARTELEC",
+            "ProductName": "Unit Rate"
+        },
+        {
+            "ProductCode": "CC_UNIT_RATE_DAY/NIGHT_NIGHT",
+            "ProductName": "Unit Rate - Night"
+        }
+    ],
+    "FilterProductCode": [
+        "CC_UNIT_RATE_DAY/NIGHT_NIGHT"
+    ],
+    "FilterProductName": [
+        "Unit Rate - Night"
+    ]
+}

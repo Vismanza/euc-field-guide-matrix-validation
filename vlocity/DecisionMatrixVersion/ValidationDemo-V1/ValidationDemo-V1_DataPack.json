@@ -1,0 +1,27 @@
+{
+    "ApiName": "ValidationDemo_V1",
+    "CalculationMatrix.Name": "ValidationDemo",
+    "CalculationMatrixId": {
+        "Name": "ValidationDemo",
+        "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
+        "VlocityLookupRecordSourceKey": "CalculationMatrix/ValidationDemo",
+        "VlocityRecordSObjectType": "CalculationMatrix"
+    },
+    "CalculationMatrixRow": "ValidationDemo-V1_Rows.json",
+    "DecisionMatrixDefinitionVerId": "9QOHp000000wlS3OAI",
+    "DscnModelNoteExportStatus": "",
+    "EndDateTime": "",
+    "GroupKey": "",
+    "GroupKeyValue": "",
+    "MatrixType": "Standard",
+    "Name": "ValidationDemo V1",
+    "Namespace": "",
+    "Rank": 1,
+    "StartDateTime": "2023-11-28T13:06:58.000Z",
+    "SubGroupKey": "",
+    "SubGroupKeyValue": "",
+    "VersionNumber": 1,
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "CalculationMatrixVersion",
+    "VlocityRecordSourceKey": "CalculationMatrixVersion/1/CalculationMatrix/ValidationDemo"
+}

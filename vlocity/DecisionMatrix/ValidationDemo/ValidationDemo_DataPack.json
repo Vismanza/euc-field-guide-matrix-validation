@@ -1,0 +1,15 @@
+{
+    "CalculationMatrixColumn": "ValidationDemo_CalculationMatrixColumns.json",
+    "DecisionMatrixType": "DecisionMatrix",
+    "Description": "",
+    "GroupKey": "",
+    "Name": "ValidationDemo",
+    "Namespace": "",
+    "SubGroupKey": "",
+    "Type": "Standard",
+    "UniqueName": "ValidationDemo",
+    "UsageType": "Bre",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "CalculationMatrix",
+    "VlocityRecordSourceKey": "CalculationMatrix/ValidationDemo"
+}

@@ -1,0 +1,29 @@
+{
+    "CustomJavaScript": "Pricing_Validation_SampleInput.json",
+    "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
+    "IsIntegrationProcedure": true,
+    "IsMetadataCacheDisabled": false,
+    "IsOmniScriptEmbeddable": false,
+    "IsTestProcedure": false,
+    "IsWebCompEnabled": false,
+    "Language": "Procedure",
+    "Name": "MatrixValidation",
+    "OmniProcessElement": [
+        "Pricing_Validation_Element_getRowData.json",
+        "Pricing_Validation_Element_getProductData.json",
+        "Pricing_Validation_Element_ListRowData.json",
+        "Pricing_Validation_Element_ProductsPricedLoop.json",
+        "Pricing_Validation_Element_filterPriceData.json",
+        "Pricing_Validation_Element_PricingCover.json",
+        "Pricing_Validation_Element_ResponseMatrixCoverage.json"
+    ],
+    "OmniProcessKey": "Pricing_Validation",
+    "OmniProcessType": "Integration Procedure",
+    "PropertySetConfig": "Pricing_Validation_PropertySetConfig.json",
+    "SubType": "Validation",
+    "Type": "Pricing",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcess",
+    "VlocityRecordSourceKey": "OmniProcess/Pricing/Validation/Procedure",
+    "WebComponentKey": "f5173fe0-bbfb-2045-2309-8152138bf08e"
+}

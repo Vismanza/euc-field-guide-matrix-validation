@@ -1,0 +1,30 @@
+{
+    "IsActive": true,
+    "IsOmniScriptEmbeddable": false,
+    "Name": "ProductsPricedLoop",
+    "OmniProcessId": {
+        "Name": "MatrixValidation",
+        "VlocityDataPackType": "VlocityMatchingKeyObject",
+        "VlocityMatchingRecordSourceKey": "OmniProcess/Pricing/Validation/Procedure",
+        "VlocityRecordSObjectType": "OmniProcess"
+    },
+    "PropertySetConfig": {
+        "disOnTplt": false,
+        "executionConditionalFormula": "",
+        "label": "LoopBlock1",
+        "loopList": "getProductData:Products",
+        "loopOutput": {
+            "ProductCode": "=%getProductData:Products:ProductCode%",
+            "ProductId": "=%getProductData:Products:Id%",
+            "ProductName": "=%getProductData:Products:Name%",
+            "ProductSubType": "=%getProductData:Products:SubType%",
+            "ProductType": "=%getProductData:Products:Type%",
+            "productRowCount": "=%filterPriceData:filterResults:productRowCount%"
+        },
+        "show": null
+    },
+    "Type": "Loop Block",
+    "VlocityDataPackType": "SObject",
+    "VlocityRecordSObjectType": "OmniProcessElement",
+    "VlocityRecordSourceKey": "OmniProcessElement/OmniProcess/Pricing/Validation/Procedure/ProductsPricedLoop"
+}
