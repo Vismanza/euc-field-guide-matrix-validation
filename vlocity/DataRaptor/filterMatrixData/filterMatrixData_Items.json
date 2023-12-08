@@ -1,6 +1,27 @@
 [
     {
-        "FormulaExpression": "FILTER(LIST(Data), 'ProductCode == \"' + FilterProductCode + '\"')",
+        "FormulaExpression": "AVG(%Products:FilteredData:OutputData:UsagePrice%)",
+        "FormulaResultPath": "Products:avg",
+        "FormulaSequence": 4,
+        "GlobalKey": "filterMatrixDataCustom9749",
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "filterMatrixData",
+        "OmniDataTransformationId": {
+            "Name": "filterMatrixData",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/filterMatrixData",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 0,
+        "OutputFieldName": "Formula",
+        "OutputObjectName": "Formula",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "FormulaExpression": "FILTER(LIST(Data), 'InputData:SourceProductCode == \"' + FilterProductCode + '\"')",
         "FormulaResultPath": "Products:FilteredData",
         "FormulaSequence": 1,
         "GlobalKey": "filterMatrixDataCustom2333",
@@ -63,10 +84,10 @@
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
-        "FormulaExpression": "InvokeIP ('Test_Invoke', INPUT('ContextId', 10), 'AnOutPutKey')",
-        "FormulaResultPath": "InvokeTest",
-        "FormulaSequence": 4,
-        "GlobalKey": "filterMatrixDataCustom9017",
+        "FormulaExpression": "MAX(%Products:FilteredData:OutputData:UsagePrice%)",
+        "FormulaResultPath": "Products:max",
+        "FormulaSequence": 5,
+        "GlobalKey": "filterMatrixDataCustom5053",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -84,8 +105,10 @@
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
     {
-        "GlobalKey": "filterMatrixDataCustom903",
-        "InputFieldName": "InvokeTest",
+        "FormulaExpression": "MIN(%Products:FilteredData:OutputData:UsagePrice%)",
+        "FormulaResultPath": "Products:min",
+        "FormulaSequence": 6,
+        "GlobalKey": "filterMatrixDataCustom395",
         "IsDisabled": false,
         "IsRequiredForUpsert": false,
         "IsUpsertKey": false,
@@ -96,9 +119,9 @@
             "VlocityMatchingRecordSourceKey": "OmniDataTransform/filterMatrixData",
             "VlocityRecordSObjectType": "OmniDataTransform"
         },
-        "OutputCreationSequence": 1,
-        "OutputFieldName": "InvokeTest",
-        "OutputObjectName": "json",
+        "OutputCreationSequence": 0,
+        "OutputFieldName": "Formula",
+        "OutputObjectName": "Formula",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"
     },
@@ -136,6 +159,63 @@
         },
         "OutputCreationSequence": 1,
         "OutputFieldName": "Products:ProductName",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "GlobalKey": "filterMatrixDataCustom912",
+        "InputFieldName": "Products:avg",
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "filterMatrixData",
+        "OmniDataTransformationId": {
+            "Name": "filterMatrixData",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/filterMatrixData",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 1,
+        "OutputFieldName": "Products:avg",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "GlobalKey": "filterMatrixDataCustom8453",
+        "InputFieldName": "Products:max",
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "filterMatrixData",
+        "OmniDataTransformationId": {
+            "Name": "filterMatrixData",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/filterMatrixData",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 1,
+        "OutputFieldName": "Products:max",
+        "OutputObjectName": "json",
+        "VlocityDataPackType": "SObject",
+        "VlocityRecordSObjectType": "OmniDataTransformItem"
+    },
+    {
+        "GlobalKey": "filterMatrixDataCustom5784",
+        "InputFieldName": "Products:min",
+        "IsDisabled": false,
+        "IsRequiredForUpsert": false,
+        "IsUpsertKey": false,
+        "Name": "filterMatrixData",
+        "OmniDataTransformationId": {
+            "Name": "filterMatrixData",
+            "VlocityDataPackType": "VlocityMatchingKeyObject",
+            "VlocityMatchingRecordSourceKey": "OmniDataTransform/filterMatrixData",
+            "VlocityRecordSObjectType": "OmniDataTransform"
+        },
+        "OutputCreationSequence": 1,
+        "OutputFieldName": "Products:min",
         "OutputObjectName": "json",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "OmniDataTransformItem"

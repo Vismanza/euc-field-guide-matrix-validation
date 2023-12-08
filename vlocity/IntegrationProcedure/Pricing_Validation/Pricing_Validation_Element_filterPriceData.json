@@ -25,7 +25,7 @@
     "PropertySetConfig": {
         "actionMessage": "",
         "additionalInput": {
-            "Data": "=%ListRowData%",
+            "Data": "=%getRowData:Data%",
             "FilterProductCode": "=%getProductData:Products:ProductCode%",
             "FilterProductName": "=%getProductData:Products:Name%"
         },

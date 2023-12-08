@@ -19,6 +19,9 @@
             "ProductName": "=%getProductData:Products:Name%",
             "ProductSubType": "=%getProductData:Products:SubType%",
             "ProductType": "=%getProductData:Products:Type%",
+            "average": "=%filterPriceData:filterResults:avg%",
+            "max": "=%filterPriceData:filterResults:max%",
+            "min": "=%filterPriceData:filterResults:min%",
             "productRowCount": "=%filterPriceData:filterResults:productRowCount%"
         },
         "show": null

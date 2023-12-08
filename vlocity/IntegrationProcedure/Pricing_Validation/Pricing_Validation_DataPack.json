@@ -1,5 +1,6 @@
 {
     "CustomJavaScript": "Pricing_Validation_SampleInput.json",
+    "Description": "Adding avg, min, max",
     "ElementTypeComponentMapping": "{\"ElementTypeToHTMLTemplateList\":[]}",
     "IsIntegrationProcedure": true,
     "IsMetadataCacheDisabled": false,
@@ -11,7 +12,6 @@
     "OmniProcessElement": [
         "Pricing_Validation_Element_getRowData.json",
         "Pricing_Validation_Element_getProductData.json",
-        "Pricing_Validation_Element_ListRowData.json",
         "Pricing_Validation_Element_ProductsPricedLoop.json",
         "Pricing_Validation_Element_filterPriceData.json",
         "Pricing_Validation_Element_PricingCover.json",
@@ -25,5 +25,5 @@
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "OmniProcess",
     "VlocityRecordSourceKey": "OmniProcess/Pricing/Validation/Procedure",
-    "WebComponentKey": "f5173fe0-bbfb-2045-2309-8152138bf08e"
+    "WebComponentKey": "7abaa38d-132f-6c04-48f1-844e74da0a1b"
 }
